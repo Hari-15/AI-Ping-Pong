@@ -1,0 +1,42 @@
+.heading {
+  font-size : 40px;
+  margin-top : 0px;
+  width : 100%;
+}
+
+.instructions {
+  float : right;
+  margin-top : 10px;
+}
+
+.play, .restart, #status{
+  font-size : 20px !important;
+}
+
+.credit {
+  background-color : skyblue;
+  bottom : 0;
+  width : 50%;
+}
+
+body {
+  font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.modal-body li {
+  font-size : 18px;
+}
+
+.restart {
+  float : right;
+  margin-bottom : 0px !important;
+}
+
+video {
+  float : left !important;
+}
+
+canvas {
+  float : right !important;
+}
+
